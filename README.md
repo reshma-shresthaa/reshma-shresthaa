@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm रेश्मा</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">A passionate frontend developer from Nepal.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-shrestha777&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-shrestha777" /> </p>
 
