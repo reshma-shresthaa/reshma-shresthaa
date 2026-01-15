@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reshma</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-shrestha777&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-shrestha777" /> </p>
 
