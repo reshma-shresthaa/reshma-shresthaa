@@ -16,8 +16,3 @@
   <p>
 </div> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reshma-Shrestha777&show_icons=true&locale=en&layout=compact" alt="Reshma-Shrestha777" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Reshma-Shrestha777&show_icons=true&locale=en" alt="Reshma-Shrestha777" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reshma-Shrestha777&" alt="Reshma-Shrestha777" /></p>
