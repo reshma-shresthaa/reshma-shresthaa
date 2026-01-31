@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm रेश्मा</h1>
+<h1 align="center">Hello, I'm रेश्मा</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Web+Dev,+But+Make+It+Girly+💅" alt="Intro" ></p>
 
