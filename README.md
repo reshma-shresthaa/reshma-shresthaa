@@ -3,12 +3,12 @@
 <img 
   src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
   align="right" 
-  width="250"
+  width="300"
 />
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Web+Dev,+But+Make+It+Girly+💅" alt="Intro" ></p>
 
-<h3 align="center">A passionate frontend developer from kathmandu,Nepal.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<!-- <h3 align="center">A passionate frontend developer from kathmandu,Nepal.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-shrestha777&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-shrestha777" /> </p>
 
