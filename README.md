@@ -26,16 +26,10 @@ src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img sr
   <p>
 </div>
 
-# 📊 GitHub Stats:
-<div>
-  <h3>📊 GitHub Stats:</h3>
-  <p>
-    ![](https://github-readme-stats.vercel.app/api?username=reshma-shresthaa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=reshma-shresthaa&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reshma-shresthaa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# <h3>📊 GitHub Stats:</h3>
 
-</div>
-<h3>📊 GitHub Stats:</h3>
+ 
+
 ![](https://github-readme-stats.vercel.app/api?username=reshma-shresthaa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=reshma-shresthaa&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reshma-shresthaa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
