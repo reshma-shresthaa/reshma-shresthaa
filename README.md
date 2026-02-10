@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p> -->
 
 <div>
   <h3> 💻 Languages and Tools </h3>
