@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm रेश्मा </h1>
+<h1 align="center">Hello, I'm रेश्मा Shrestha</h1>
 
 <img 
   src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
